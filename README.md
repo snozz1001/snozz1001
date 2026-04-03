@@ -14,3 +14,5 @@ Currently learning applied AI (RAG, LangChain, agents).
 
 **stack**
 `Spring Boot` `React` `Jetpack Compose` `Oracle DB` `LangChain`
+
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,js,python,react,spring,androidstudio,oracle&theme=dark)](https://skillicons.dev)
