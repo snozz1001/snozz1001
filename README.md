@@ -1,3 +1,5 @@
+![banner](banner.svg)
+
 # snozz
 
 Software Engineering student at DuocUC, Santiago — AI track, third year.
